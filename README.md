@@ -34,6 +34,9 @@ The path variable should be set to the lowercase, hyphen-separated version of na
 In `setup.py`
 In line 52, replace `python_template` in `exec(read("python_template/__meta__.py"), meta)` to your repository/package name.
 
+## Modify requirements.txt
+Add all your requirements in this file as all the dependencies are installed from this file.
+
 ## Installation after setup for your repository
 
 ```bash
