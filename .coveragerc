@@ -1,0 +1,2 @@
+[run]
+omit = python_template/__init__.py, python_template/__meta__.py

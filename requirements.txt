@@ -1,0 +1,6 @@
+fire
+six
+termcolor
+pymongo
+pytest-cov
+
