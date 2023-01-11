@@ -59,7 +59,7 @@ To run tests, run the following command
 
 - Decorator Support, if needed
 
-- CI/CD tempalte addition
+- CI/CD template addition
 
 ## Authors
 
