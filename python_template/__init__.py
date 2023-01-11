@@ -1,3 +1,6 @@
+from .classes import *
+from .functions import *
+
 import importlib
 import os
 import types
