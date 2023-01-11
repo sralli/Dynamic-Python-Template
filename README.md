@@ -5,7 +5,7 @@ This project aims to provide a simple and easy-to-use template for Python projec
 
 ## Features
 
-- Dynamic Python imports if function names are the same.
+- Dynamic Python imports if function names are the same. 
 - Init files which follow a syntax for importing based on full customization as regular python imports.
 - Tests in the same folder as the development code
 - Easy to modify and make your own code structure
